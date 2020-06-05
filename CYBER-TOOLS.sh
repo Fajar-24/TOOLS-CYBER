@@ -126,7 +126,7 @@ clear
 figlet "2"|lolcat
 clear
 figlet "1"|lolcat
-git clone https://github.com/Fajar-24/WHATSAPP
-cd WHATSAPP
+git clone https://github.com/Fajar-24/HACKWHATSAPP
+cd HACKWHATSAPP
 sh WhatSapp.sh
 fi
